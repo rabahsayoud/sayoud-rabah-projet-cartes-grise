@@ -6,9 +6,9 @@ import java.sql.SQLException;
 import javax.swing.JOptionPane;
 
 public class DatabaseConnection {
-    private static final String URL = "jdbc:mysql://localhost:3306/sayoud-rabah-cartegrise";
-    private static final String USER = "root"; // Remplacer par votre utilisateur MySQL
-    private static final String PASSWORD = "root"; // Remplacer par votre mot de passe MySQL
+    private static final String URL = "jdbc:mysql://localhost:3306/xxxx-xxxx-xxxx";
+    private static final String USER = "xxxx"; // Remplacer par votre utilisateur MySQL
+    private static final String PASSWORD = "xxxx"; // Remplacer par votre mot de passe MySQL
 
     static {
         try {
